@@ -1,0 +1,32 @@
+html {
+    font-family: Poppins, sans-serif;
+    background-color: #121219;
+}
+body {
+    padding: 0 10px 10px 15px;
+    margin: 0 20px 0px 10px;
+    background-color: #302835;
+    border-radius: 7px;
+}
+h1, h2 {
+    color: #fff;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+}
+p {
+    color:#fff;
+    text-align: left;
+}
+h3 {
+    color: #fff;
+    border: 5px solid #221825;
+    border-radius: 5px;
+    background-color: #221825;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: left;
+}
